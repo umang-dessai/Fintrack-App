@@ -1,0 +1,39 @@
+name: fintrack_app
+description: A new Flutter project for finance tracking.
+
+# The Flutter SDK version
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  image_picker: ^0.8.5+3
+
+  # Firebase dependencies (compatible versions)
+  firebase_core: ^3.6.0
+  firebase_auth: ^5.3.1
+  cloud_firestore: ^5.4.4
+  firebase_storage: ^12.3.2
+
+  # Additional dependencies
+  provider: ^6.0.5
+  file_picker: ^8.1.2
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/default_profile.png  # Add your assets here
+
+fonts:
+  - family: CustomFontName
+    fonts:
+      - asset: fonts/CustomFontName-Regular.ttf
+
