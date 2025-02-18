@@ -69,23 +69,13 @@ lib/
    flutter run
    ```
 
-## 📸 Screenshots
-(Attach screenshots of different screens here)
-
 ## 🏗️ Future Enhancements
 - ✅ Expense analysis with AI-powered suggestions
 - 📍 Location-based expense tracking
 - 📈 Advanced financial insights and reports
 - 🌎 Multi-currency support
 
-## 🤝 Contribution
-Feel free to contribute! Open issues and submit pull requests to enhance FinTrack.
-
-## 📜 License
-This project is licensed under the MIT License.
-
 ## 📞 Contact
 For any queries, reach out at:
-📧 Email: yourname@example.com  
-🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+📧 umangdessai@gmail.com
 
